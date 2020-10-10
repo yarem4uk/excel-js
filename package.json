@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vladilenm/excel-course.git"
+    "url": "git+https://github.com/yarem4uk/excel-js.git"
   },
   "keywords": [
     "js",
@@ -52,6 +52,7 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.11.5"
+    "@babel/polyfill": "^7.11.5",
+    "normalize.css": "^8.0.1"
   }
 }
